@@ -8,3 +8,10 @@ XSS-Exploit-Toolkit
 # About
 
 # Contact us
+Blueudp:
+    Twitter: https://twitter.com/blueudp
+    Telegram: @blueudp
+    
+Lockedbyte:
+    Twitter: Createlo
+    Telegram: @mrd1c3x
