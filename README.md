@@ -1,10 +1,10 @@
 # XET
 XSS-Exploit-Toolkit
 
-# dependencies
+# Dependencies
 
-# usage
+# Usage
 
-# about
+# About
 
 # Contact us
