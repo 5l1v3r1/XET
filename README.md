@@ -14,17 +14,17 @@ We are not responsible for damages caused by the script
 
 Tested in ParrotOS and Kali Linux 2.0
 # Contact us
-Blueudp:
+Blueudp (Eduardo):
 
 
 
     Twitter: https://twitter.com/blueudp
     Telegram: @blueudp
 
-Lockedbyte:
+Lockedbyte (Alejandro):
 
 
 
 
-    Twitter: Createlo
+    Twitter: https://twitter.com/LockedByte
     Telegram: @mrd1c3x
