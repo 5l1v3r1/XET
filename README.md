@@ -2,7 +2,7 @@
 XSS-Exploit-Toolkit
 
 # Dependencies
-         pip install -r requirements.txt
+    pip install -r requirements.txt
 # Usage
 
 # About
