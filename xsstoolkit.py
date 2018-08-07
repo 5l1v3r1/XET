@@ -84,7 +84,7 @@ def mainask():
         if "1" in mainput:
         
             while "g" or "p" not in getpost:
-                getpost = input("\033[94m" + "xet:web> " + "\033[0m" + "GET/POST (method) (if you dont know whats POST select GET[G/P]): ")
+                getpost = input("\033[94m" + "xet:web> " + "\033[0m" + "GET/POST (method) (if you dont know what's POST select GET[G/P]): ")
                 getpost = getpost.lower()
                 if "g" in getpost:
                     attack.post = ""
